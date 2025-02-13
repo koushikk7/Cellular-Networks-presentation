@@ -1,7 +1,7 @@
 # Cellular Networks - Understanding Mobile Communication Technologies
 
 ## Overview
-This project is a **detailed presentation on Cellular Networks**, covering their architecture, working principles, and various generations of mobile communication (1G to 5G). It was presented as part of ** 6th-semester coursework in Winter 2023** at **Politechnika Warszawska**.
+This project is a **detailed presentation on Cellular Networks**, covering their architecture, working principles, and various generations of mobile communication (1G to 5G). It was presented in 6th-semester (summer 2023) as part of coursework in the subject "Telecommunications and systems" at **Politechnika Warszawska**.
 
 ### **Presentation Details**
 - **Presented by:** Sai Koushik Neriyanuri & Aayush Rautela  
